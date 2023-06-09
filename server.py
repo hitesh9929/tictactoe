@@ -98,7 +98,7 @@ def check_winner():
 
 #Socket program
 def start_server():
-    #Binding to port 9999
+    #Binding to port 2929
     #Only two clients can connect 
     try:
         s.bind((host, port))
