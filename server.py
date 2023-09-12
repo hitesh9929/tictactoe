@@ -1,5 +1,4 @@
 import socket
-import pickle
 import time
 
 s = socket.socket()
